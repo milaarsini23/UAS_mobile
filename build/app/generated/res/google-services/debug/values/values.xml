@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">384862784017-gjg5r48sobsah6s6qdoc4n67fjdkrfhp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://uas-mobjut.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">384862784017</string>
+    <string name="google_api_key" translatable="false">AIzaSyBD3LTsZsrU0X5nijjtybwiufvczFmh8Xo</string>
+    <string name="google_app_id" translatable="false">1:384862784017:android:c694835306e143bf457fb0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBD3LTsZsrU0X5nijjtybwiufvczFmh8Xo</string>
+    <string name="google_storage_bucket" translatable="false">uas-mobjut.appspot.com</string>
+    <string name="project_id" translatable="false">uas-mobjut</string>
+</resources>
